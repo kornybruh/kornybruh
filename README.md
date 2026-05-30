@@ -10,14 +10,14 @@ kindly make me light up by ideas
 ## website that work and currently use and the gitdir is private (i add .env)
 successfully dev website
 
-https://homemaster.rtaf.net __
-https://homefts.rtaf.net __
-https://sim.kornz.net __
-https://atmozlife.com/admin __
-https://fininfo.rtaf.net __
-https://backup.rtaf.net __
-https://kornz.net (unfinished lazy to continue) __
-https://box.kornz.net (acts like dropbox ai style closed) __
-https://api.rtaf.net __
+https://homemaster.rtaf.net <br>
+https://homefts.rtaf.net <br>
+https://sim.kornz.net <br>
+https://atmozlife.com/admin <br>
+https://fininfo.rtaf.net <br>
+https://backup.rtaf.net <br>
+https://kornz.net (unfinished lazy to continue) <br>
+https://box.kornz.net (acts like dropbox ai style closed) <br>
+https://api.rtaf.net <br>
 
 thank cloudflare
