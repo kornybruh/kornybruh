@@ -10,11 +10,11 @@ kindly make me light up by ideas
 ## website that work and currently use and the gitdir is private (i add .env)
 successfully dev website
 
-homemaster.rtaf.net
-homefts.rtaf.net
-sim.kornz.net
-atmozlife.com/admin
-fininfo.rtaf.net
+homemaster.rtaf.net \n
+homefts.rtaf.net \n
+sim.kornz.net \n
+atmozlife.com/admin \n
+fininfo.rtaf.net \n
 backup.rtaf.net
 kornz.net (unfinished lazy to continue)
 box.kornz.net (acts like dropbox ai style closed)
