@@ -1,14 +1,14 @@
 ## yo hi my name korn
-my goal is not only making websites and make people use it 
--> standalone dont use another provider ex. payment gateway, sms, email
--> they will charge me those cost thb/mnth 
-boost effeicency, check every corners low costing and steps
+my goal is not only making websites and make people use it  <br>
+-> standalone dont use another provider ex. payment gateway, sms, email <br>
+-> they will charge me those cost thb/mnth <br>
+so it will be fast (i use only one) and UNlimit
 
 another goal
 -> to make a e-commer thign thanks https://pranakorn.co.th/ 
 kindly make me light up by ideas
 ## website that work and currently use and the gitdir is private (i add .env)
-successfully dev website
+these web site are beta i did not clean up things like files tho
 
 https://homemaster.rtaf.net <br>
 https://homefts.rtaf.net <br>
