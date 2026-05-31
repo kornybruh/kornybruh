@@ -14,6 +14,7 @@ https://homemaster.rtaf.net (cleanedup)<br>
 https://homefts.rtaf.net <br>
 https://sim.kornz.net <br>
 https://atmozlife.com/admin (cleanedup)<br>
+https://atmozlife.com/note (new)<br>
 https://fininfo.rtaf.net (cleanedup)<br>
 https://backup.rtaf.net (cleanedup)<br>
 https://kornz.net (unfinished lazy to continue) <br>
