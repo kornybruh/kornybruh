@@ -1,14 +1,8 @@
 ## yo hi my name korn
-my goal is not only making websites and make people use it  <br>
--> standalone dont use another provider ex. payment gateway, sms, email <br>
--> they will charge me those cost thb/mnth <br>
-so it will be fast (i use only one) and UNlimit
-
-another goal
--> to make a e-commer thign thanks https://pranakorn.co.th/ 
-kindly make me light up by ideas
-## website that work and currently use and the gitdir is private (i add .env)
-these web site are beta i did not clean up things like files tho
+this is MY all projects some is cleanup or something
+ahh vib coding
+goal -> easy to use locally next some api email verify ,sms,qr checking thing
+study go, vitejs, some react modern lang stuff this is for portfolio tho
 
 https://homemaster.rtaf.net (cleanedup)<br>
 https://homefts.rtaf.net <br>
