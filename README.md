@@ -33,7 +33,9 @@ basicly you need a low to mid knows about web structure,server,full stack like <
 <br>
 thank cloudflare <br>
 <br>
-also i do some robots,speaker,anything but tech  <br>
+also i do some robots,speaker,piano{abrsm yamaha teacher grade now},ableton making songs<br>
 my father teachs me about websites when i was like 10 yo <br>
 also he cheer up me to know <br>
 foxpro,windowserver to support his work when he retired <br>
+
+## **TIME MAGNAGEMNT IS IMPORTANT**
